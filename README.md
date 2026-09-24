@@ -1,4 +1,4 @@
-- @ric0
+- @rico
 - learning everything
 
 <!---
